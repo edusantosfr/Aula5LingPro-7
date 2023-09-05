@@ -1,0 +1,10 @@
+C:\Users\55519\source\repos\aula5at7\aula5at7\bin\Debug\aula5at7.exe.config
+C:\Users\55519\source\repos\aula5at7\aula5at7\bin\Debug\aula5at7.exe
+C:\Users\55519\source\repos\aula5at7\aula5at7\bin\Debug\aula5at7.pdb
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.csproj.AssemblyReference.cache
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.Form1.resources
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.Properties.Resources.resources
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.csproj.GenerateResource.cache
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.csproj.CoreCompileInputs.cache
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.exe
+C:\Users\55519\source\repos\aula5at7\aula5at7\obj\Debug\aula5at7.pdb
